@@ -1,4 +1,4 @@
-# ProReader Chrome Extension
+# Easy Reader Chrome Extension
 
 This is a lightweight Chrome extension that allows you to quickly open your current browser tab in [ProReader.io](https://proreader.io) for a distraction-free reading experience.
 
